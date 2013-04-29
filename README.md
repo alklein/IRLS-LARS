@@ -5,4 +5,4 @@ Final project for the CMU class 10-605: Machine Learning on Large Datasets.
 
 See the 7-minute talk for a concise, colorful overview of the project.
 
-Coming soon: final writeup in conference format.
+Coming soon: matlab implementation; final writeup in conference format.
